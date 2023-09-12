@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <div className="text-center pt-8 text-white max-h-[100vh]">
         <h5>Hello I`m</h5>
-        <h1 className="text-3xl">Carnaby</h1>
+        <h1 className="text-3xl">Algis Alkausar</h1>
         <h5 className="text-[#5593c9] text-sm">Front End Developer</h5>
         <br />
         <CTA />

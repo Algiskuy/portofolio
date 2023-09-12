@@ -58,7 +58,7 @@ const About = () => {
             </p>
             <div className="text-center sm:text-left">
               <a
-                href="contact"
+                href="#contact"
                 className="hover:text-[#eaeff3] border border-[#83c4fd] bg-cyan-500 hover:bg-cyan-700 p-2 ml-4 lg:ml-0"
               >
                 Let`s Talk

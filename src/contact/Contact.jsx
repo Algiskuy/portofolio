@@ -32,7 +32,7 @@ const Contact = () => {
         <div className="md:flex justify-center gap-10 mx-8 md:mx-0 lg:mx-16">
           {/* option */}
           <div className="mb-10 grid gap-6 m-0">
-            <article className="text-white bg-indigo-800 hover:bg-transparent border border-transparent hover:border-sky-400 p-5 rounded-xl text-center m-0 ease-in duration-200">
+            <article className="text-white bg-indigo-800 hover:bg-transparent border border-transparent hover:border-sky-400 p-5 rounded-xl text-center m-0 ease-in duration-200 cursor-pointer">
               <MdOutlineEmail className="text-2xl mb-2" />
               <h4>Email</h4>
               <h5>algisalkautsar03@gmail.com</h5>
@@ -44,7 +44,7 @@ const Contact = () => {
                 Send a message
               </a>
             </article>
-            <article className="text-white bg-indigo-800 hover:bg-transparent border border-transparent hover:border-sky-400 p-5 rounded-xl text-center m-0 ease-in duration-200">
+            <article className="text-white bg-indigo-800 hover:bg-transparent border border-transparent hover:border-sky-400 p-5 rounded-xl text-center m-0 ease-in duration-200 cursor-pointer">
               <RiMessengerLine className="text-2xl mb-2" />
               <h4>Messenger</h4>
               <h5>Algis Alkausar</h5>
@@ -56,10 +56,10 @@ const Contact = () => {
                 Send a message
               </a>
             </article>
-            <article className="text-white bg-indigo-800 hover:bg-transparent border border-transparent hover:border-sky-400 p-5 rounded-xl text-center m-0 ease-in duration-200">
+            <article className="text-white bg-indigo-800 hover:bg-transparent border border-transparent hover:border-sky-400 p-5 rounded-xl text-center m-0 ease-in duration-200 cursor-pointer">
               <BsWhatsapp className="text-2xl mb-2" />
               <h4>WhatsApp</h4>
-              <h5>+628212567</h5>
+              <h5>+6282125675055</h5>
               <a
                 href="https://api.whatsapp.com/send?phone=622125675055"
                 target="_blank"

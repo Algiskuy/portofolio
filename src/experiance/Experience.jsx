@@ -24,8 +24,8 @@ const Experience = () => {
                   <BsPatchCheckFill />
                 </p>
                 <div className="ml-4">
-                  <h4>HTML</h4>
-                  <small>Experienced</small>
+                  <h4>HTML 5</h4>
+                  <small>Beginer</small>
                 </div>
               </article>
               <article className="text-white m-0 flex">
@@ -34,7 +34,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>CSS</h4>
-                  <small>Intermediate</small>
+                  <small>Beginer</small>
                 </div>
               </article>{" "}
               <article className="text-white m-0 flex">
@@ -43,7 +43,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>JavaScript</h4>
-                  <small>Experienced</small>
+                  <small>Beginer</small>
                 </div>
               </article>{" "}
               <article className="text-white m-0 flex">
@@ -52,7 +52,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>Tailwindcss</h4>
-                  <small>Experienced</small>
+                  <small>Beginer</small>
                 </div>
               </article>{" "}
               <article className="text-white m-0 flex">
@@ -61,7 +61,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>React js + vite</h4>
-                  <small>Experienced</small>
+                  <small>Beginer</small>
                 </div>
               </article>
             </div>
@@ -77,8 +77,8 @@ const Experience = () => {
                   <BsPatchCheckFill />
                 </p>
                 <div className="ml-4">
-                  <h4>HTML</h4>
-                  <small>Experienced</small>
+                  <h4>HTML 5</h4>
+                  <small>Beginer</small>
                 </div>
               </article>
               <article className="text-white  m-0 flex">
@@ -87,7 +87,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>CSS</h4>
-                  <small>Intermediate</small>
+                  <small>Beginer</small>
                 </div>
               </article>{" "}
               <article className="text-white  m-0 flex">
@@ -96,7 +96,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>JavaScript</h4>
-                  <small>Experienced</small>
+                  <small>Beginer</small>
                 </div>
               </article>{" "}
               <article className="text-white  m-0 flex">
@@ -105,7 +105,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>Tailwindcss</h4>
-                  <small>Experienced</small>
+                  <small>Beginer</small>
                 </div>
               </article>{" "}
               <article className="text-white  m-0 flex">
@@ -114,7 +114,7 @@ const Experience = () => {
                 </p>
                 <div className="ml-4">
                   <h4>React js + vite</h4>
-                  <small>Experienced</small>
+                  <small>Beginer</small>
                 </div>
               </article>
             </div>

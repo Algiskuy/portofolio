@@ -1,4 +1,4 @@
-import CV from "../assets/Documents/CV.pdf";
+import CV from "../assets/Documents/Algis Al KausarCV.jpg";
 
 const CTA = () => {
   return (
